@@ -12,3 +12,8 @@ Essentially, a rate-limited application will say, "Hey, slow down," to unique us
 
 
 ---
+
+
+A rate limiting solution may use an IP address as a basis for determining which devices are making too many requests and should be temporarily blocked.
+
+---

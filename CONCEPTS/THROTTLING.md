@@ -7,6 +7,7 @@ Just plain, everyday understanding.
 
 # ⭐ EVEN SIMPLER EXPLANATION
 
+
 ## ✅ **What is a rate limit?**
 
 A **rate limit** means:
